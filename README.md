@@ -68,17 +68,28 @@
     WHO-K WHO-K_S4_L001_R1_001.fastq.gz WHO-K_S4_L001_R2_001.fastq.gz
     WHO-L WHO-L_S5_L001_R1_001.fastq.gz WHO-L_S5_L001_R2_001.fastq.gz
     
-First column = Sample ID
+  First column = Sample ID
 
-Second Column = First fastq read pair
+  Second Column = First fastq read pair
 
-Third Column = Second fastq read pair
+  Third Column = Second fastq read pair
 
-Note: Make sure to put all the fastq reads in the same folder. 
+  Note: Make sure to put all the fastq reads in the same folder. 
 
-If you have thousands of samples then the input file in the above-mentioned format can be prepared by using the following script:
+  If you have thousands of samples then the input file in the above-mentioned format can be prepared by using the following script:
 
 	“perl Prepare_Input.pl <path-to-fastq-files> <number e.g 5> <Output directory>”
   
 For more information, please see “Gen2Epi-GUI-REFERENCE_GUIDE.pdf” 
 
+  2)	For Quality Check and Trimming
+  			
+	“perl WGS_SIBP_P1.pl /home/user/Desktop/Test_DATA/Input /home/user/Desktop/Test_DATA/WHO_Data both Output 3 3 4:15 30”
+		
+  3)	For De-novo assembly
+
+	“perl WGS_SIBP_P2.pl /home/user/Desktop/Test_DATA/Input Output/Trimming trimmed 2 Output”
+	
+  4)	For Chromosome Scaffolding
+  	
+	“Perl WGS_SIBP_P3-Chr-C1.pl /home/user/Desktop/Test_DATA/Input /home/user/Desktop/Test_DATA/WHO_Full_Reference_genome/Chromosome /home/user/Desktop/Gen2Epi_Scripts/Output/Chrom_AssemblyTrimmedReads /home/user/Desktop/Test_DATA/WHO_Genome_Annotation/Chromosome 1 TXT Output”
