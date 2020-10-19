@@ -59,3 +59,4 @@
  
         “mkdir Output”
 
+9)	Prepare a tab-limited input file describing the full name and the paired-end read files, e.g., 
