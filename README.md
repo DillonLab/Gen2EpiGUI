@@ -82,23 +82,23 @@
   
   For more information, please see “Gen2Epi-GUI-REFERENCE_GUIDE.pdf” 
 
-  2)	For Quality Check and Trimming
+  2)	For quality check and trimming
   			
 	“perl WGS_SIBP_P1.pl /home/user/Desktop/Test_DATA/Input /home/user/Desktop/Test_DATA/WHO_Data both Output 3 3 4:15 30”
 		
-  3)	For De-novo assembly
+  3)	For de-novo assembly
 
 	“perl WGS_SIBP_P2.pl /home/user/Desktop/Test_DATA/Input Output/Trimming trimmed 2 Output”
 	
-  4)	For Chromosome Scaffolding
+  4)	For chromosome scaffolding
   	
 	“Perl WGS_SIBP_P3-Chr-C1.pl /home/user/Desktop/Test_DATA/Input /home/user/Desktop/Test_DATA/WHO_Full_Reference_genome/Chromosome /home/user/Desktop/Gen2Epi_Scripts/Output/Chrom_AssemblyTrimmedReads /home/user/Desktop/Test_DATA/WHO_Genome_Annotation/Chromosome 1 TXT Output”
 	
-  5)	For Plasmid-type identification
+  5)	For plasmid-type identification
   		
 	“Perl WGS_SIBP_P3-Plas_C1.pl /home/user/Desktop/Test_DATA/Input Output/Plasmid_AssemblyTrimmedReads 1 /home/user/Desktop/Test_DATA/Plasmid.fasta Output”
 	
-  6)	For Epidemiological analysis and AMR prediction of the assembled scaffolds: Please make sure to delete the existing output file before running the following commands.
+  6)	For epidemiological analysis and AMR prediction of the assembled scaffolds: Please make sure to delete the existing output file before running the following commands.
   
  	 a.	NG-MAST
 	 
