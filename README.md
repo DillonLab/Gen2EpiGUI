@@ -93,3 +93,42 @@ For more information, please see “Gen2Epi-GUI-REFERENCE_GUIDE.pdf”
   4)	For Chromosome Scaffolding
   	
 	“Perl WGS_SIBP_P3-Chr-C1.pl /home/user/Desktop/Test_DATA/Input /home/user/Desktop/Test_DATA/WHO_Full_Reference_genome/Chromosome /home/user/Desktop/Gen2Epi_Scripts/Output/Chrom_AssemblyTrimmedReads /home/user/Desktop/Test_DATA/WHO_Genome_Annotation/Chromosome 1 TXT Output”
+	
+  5)	For Plasmid-type identification
+  		
+	“Perl WGS_SIBP_P3-Plas_C1.pl /home/user/Desktop/Test_DATA/Input Output/Plasmid_AssemblyTrimmedReads 1 /home/user/Desktop/Test_DATA/Plasmid.fasta Output”
+	
+  6)	For Epidemiological analysis and AMR prediction of the assembled scaffolds: Please make sure to delete the existing output file before running the following commands.
+  
+ 	 a.	NG-MAST
+	 
+	 	“perl MASTdbUpdate.pl”
+	        “perl WGS_SIBP_P4_Epi.pl /home/user/Desktop/Test_DATA/Input Output/Chr_Scaffolds NGMAST Output”
+		
+	 b.	NG-MLST
+	 
+	 	“perl MLSTdbUpdate.pl”
+	        “perl WGS_SIBP_P4_Epi.pl /home/user/Desktop/Test_DATA/Input Output/Chr_Scaffolds MLST Output MLST-Genes.fasta MLST_alleles.fasta pubMLST_profile.txt”
+		
+		Please Note: In case you encounter “BLAST database index” error then make sure to build the blast database for “MLST-Genes.fasta” using the following command:
+		
+	        “makeblastdb –in MLST-Genes.fasta –db nucl”
+		
+	 c.	NG-STAR	
+	 
+	 	“perl ngSTARdb.pl”
+	        “perl NgSTARmeta.pl”
+	        “perl WGS_SIBP_P4_Epi.pl /home/user/Desktop/Test_DATA/Input Output/Chr_Scaffolds ngstar Output AMR-Genes-NgStar.fasta AMR-Genes-NgStar-alleles.fasta”	
+    	
+	d.	Chromosome-mediated Tetracycline Resistance	
+	
+	        “perl TetRes.pl rpsJ.fasta Output/Chr_Scaffolds/All_Sequences Output”
+	        “perl SeqProt.pl Output”
+		
+# Contact
+
+Professor Jo-Anne R Dillon: j.dillon@usask.ca 
+
+Professor Anthony Kusalik: kusalik@cs.usask.ca 
+
+Dr. Reema Singh: res498@usask.ca; res498@mail.usask.ca 
