@@ -134,5 +134,11 @@ Professor Anthony Kusalik: kusalik@cs.usask.ca
 Dr. Reema Singh: res498@usask.ca; res498@mail.usask.ca 
 
 # Alternate links
+
 https://github.com/ReemaSingh/Gen2EpiGUI 
-ftp://www.cs.usask.ca/pub/combi 
+
+ftp://www.cs.usask.ca/pub/combi
+
+# Citation
+
+Singh R, Yarmovich T, Kusalik A, Dillon JA. Gen2EpiGUI: User-Friendly Pipeline for Analyzing Whole-Genome Sequencing Data for Epidemiological Studies of Neisseria gonorrhoeae. Sexually Transmitted Diseases. 2020 Oct 1;47(10):e42-4.
