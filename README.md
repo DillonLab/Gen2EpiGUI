@@ -59,4 +59,26 @@
  
         “mkdir Output”
 
-9)	Prepare a tab-limited input file describing the full name and the paired-end read files, e.g., 
+# How to use
+
+  1)	Prepare a tab-limited input file describing the full name and the paired-end read files, e.g., 
+  
+    WHO-F WHO-F_S2_L001_R1_001.fastq.gz WHO-F_S2_L001_R2_001.fastq.gz
+    WHO-G WHO-G_S3_L001_R1_001.fastq.gz WHO-G_S3_L001_R2_001.fastq.gz
+    WHO-K WHO-K_S4_L001_R1_001.fastq.gz WHO-K_S4_L001_R2_001.fastq.gz
+    WHO-L WHO-L_S5_L001_R1_001.fastq.gz WHO-L_S5_L001_R2_001.fastq.gz
+    
+First column = Sample ID
+
+Second Column = First fastq read pair
+
+Third Column = Second fastq read pair
+
+Note: Make sure to put all the fastq reads in the same folder. 
+
+If you have thousands of samples then the input file in the above-mentioned format can be prepared by using the following script:
+
+	“perl Prepare_Input.pl <path-to-fastq-files> <number e.g 5> <Output directory>”
+  
+For more information, please see “Gen2Epi-GUI-REFERENCE_GUIDE.pdf” 
+
