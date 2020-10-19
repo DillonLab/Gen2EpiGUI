@@ -120,7 +120,7 @@
 	        “perl NgSTARmeta.pl”
 	        “perl WGS_SIBP_P4_Epi.pl /home/user/Desktop/Test_DATA/Input Output/Chr_Scaffolds ngstar Output AMR-Genes-NgStar.fasta AMR-Genes-NgStar-alleles.fasta”	
     	
-	d.	Chromosome-mediated Tetracycline Resistance	
+	 d.	Chromosome-mediated Tetracycline Resistance	
 	
 	        “perl TetRes.pl rpsJ.fasta Output/Chr_Scaffolds/All_Sequences Output”
 	        “perl SeqProt.pl Output”
