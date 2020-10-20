@@ -49,17 +49,14 @@
 
         “/home/user/Desktop/Test_DATA”
         
- 6)	Copy the Gen2Epi_Scripts-GUI folder in your current working directory.
+6)	Copy the Gen2Epi_Scripts-GUI folder in your current working directory.
  
- 7)	Open terminal (Applications->Favorites->Terminal) and cd into 
+7)	Open terminal (Applications->Favorites->Terminal) and cd into 
  
         “/home/user/Desktop/Gen2Epi_Scripts“
-        
- 8)	Create an output directory
- 
-        “mkdir Output”
 
-# How to use
+8) 	copy “Gen2EpiGUI.pl” script on the Desktop. To use the user-friendly version of the pipeline follow the instructions given in “UserManual.pdf” & “IntroductoryDemo.pdf”.             
+# How to use Gen2EpiGUI via Commandline
 
   1)	Prepare a tab-limited input file describing the full name and the paired-end read files, e.g., 
   
@@ -82,8 +79,9 @@
   
   For more information, please see “Gen2Epi-GUI-REFERENCE_GUIDE.pdf” 
 
-  2)	For quality check and trimming
-  			
+  2)	Create an output directory and perform quality check and trimming using following commands
+  
+         “mkdir Output”		
 	“perl WGS_SIBP_P1.pl /home/user/Desktop/Test_DATA/Input /home/user/Desktop/Test_DATA/WHO_Data both Output 3 3 4:15 30”
 		
   3)	For de-novo assembly
