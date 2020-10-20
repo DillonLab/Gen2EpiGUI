@@ -55,7 +55,12 @@
  
         “/home/user/Desktop/Gen2Epi_Scripts“
 
-8) 	copy “Gen2EpiGUI.pl” script on the Desktop. To use the user-friendly version of the pipeline follow the instructions given in “UserManual.pdf” & “IntroductoryDemo.pdf”.             
+8) 	Copy the “Gen2EpiGUI.pl” script on the Desktop. 
+
+        "cp /home/user/Desktop/Gen2Epi_Scripts/Gen2EpiGUI.pl /home/user/Desktop/"
+	
+        This will create an icon on the Desktop. Double click on the icon to run the program. To use the user-friendly version of the pipeline follow the instructions given in “UserManual.pdf” and “IntroductoryDemo.pdf”.    
+
 # How to use Gen2EpiGUI via Commandline
 
   1)	Prepare a tab-limited input file describing the full name and the paired-end read files, e.g., 
