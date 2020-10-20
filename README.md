@@ -59,7 +59,7 @@
 
         "cp /home/user/Desktop/Gen2Epi_Scripts/Gen2EpiGUI.pl /home/user/Desktop/"
 	
-        This will create an icon on the Desktop. Double click on the icon to run the program. To use the user-friendly version of the pipeline follow the instructions given in “UserManual.pdf” and “IntroductoryDemo.pdf”.    
+        This will create an icon on the Desktop. Double click on the icon to run the program. To use the user-friendly version of the pipeline, follow the instructions given in “UserManual.pdf” and “IntroductoryDemo.pdf”.    
 
 # How to use Gen2EpiGUI via Commandline
 
