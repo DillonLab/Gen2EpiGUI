@@ -128,7 +128,7 @@
 	        “perl TetRes.pl rpsJ.fasta Output/Chr_Scaffolds/All_Sequences Output”
 	        “perl SeqProt.pl Output”
 		
-# Contact
+# Contacts
 
 Professor Jo-Anne R Dillon: j.dillon@usask.ca 
 
