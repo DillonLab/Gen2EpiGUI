@@ -136,7 +136,7 @@ Professor Anthony Kusalik: kusalik@cs.usask.ca
 
 Dr. Reema Singh: res498@usask.ca; res498@mail.usask.ca 
 
-# Alternate links
+# Alternative links
 
 https://github.com/ReemaSingh/Gen2EpiGUI 
 
