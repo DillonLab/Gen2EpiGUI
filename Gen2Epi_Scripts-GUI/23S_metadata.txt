@@ -1,0 +1,31 @@
+Allele Type	AMR Markers	Collection Date	Originating Country	Patient Age	Patient Gender	Beta-Lactamase	Isolate Classification(s)	MICs Determined By	Azithromycin	Cefixime	Ceftriaxone	Ciprofloxacin	Erythromycin	Penicillin	Spectinomycin	Tetracycline	Additional Epidemiological Data	Curator Comments
+1	A2059G	12-10-12	Canada		Male	Negative	CMRNG/CipR	Agar Dilution	≥ 512.0				≥ 64.0				Rectum	
+2	C2611T	01-01-98	Canada		Male	Negative	Not Provided	Agar Dilution										
+3	Wild Type	10-04-01	Canada	18	Male	Negative	CMRNG	Agar Dilution										
+4	Wild Type	06-01-06	Canada	43	Male	Negative	CipR	Agar Dilution										
+5	Wild Type	04-01-11	Canada	44	Male	Negative	CMRNG/CipR	Agar Dilution					≥ 64.0					
+6	Wild Type	12-31-13	Canada		Male	Negative	TRNG	Agar Dilution									Rectum	
+7	C2611T	08-25-13	Canada	48	Male	Positive	CipR/EryR/PPNG/TRNG	Agar Dilution					≥ 64.0					
+8	Wild Type	09-09-11	Netherlands	26	Male	Unknown	Not Provided	Agar Dilution									Urethra	
+9	Wild Type	10-05-11	Netherlands	31	Male	Unknown	Not Provided	Agar Dilution									Urethra	
+10	Wild Type	10-11-16	USA		Unknown	Unknown	Not Provided	Not Provided										
+11	Wild Type		USA		Unknown	Unknown	Not Provided	Not Provided										
+12	Wild Type		USA		Unknown	Unknown	Not Provided	Not Provided										
+13	Wild Type		USA		Unknown	Unknown	Not Provided	Not Provided										
+14	Wild Type		USA		Unknown	Unknown	Not Provided	Not Provided										
+15	Wild Type		USA		Unknown	Unknown	Not Provided	Not Provided										
+16	C2611T		USA		Unknown	Unknown	Not Provided	Not Provided										
+17	Wild Type		USA		Unknown	Unknown	Not Provided	Not Provided										
+18	Wild Type	03-01-18	Sweden		Unknown	Unknown	Not Provided	Not Provided										
+19	Wild Type	03-01-18			Unknown	Unknown	Not Provided	Not Provided										
+20	Wild Type	10-04-18	Sweden		Unknown	Unknown	Not Provided	Not Provided										
+21	Wild Type	10-26-18	Sweden		Unknown	Unknown	Not Provided	Not Provided										
+22	Wild Type	10-26-18	Australia		Unknown	Unknown	Not Provided	Not Provided										
+23	Wild Type	10-29-18	Japan		Unknown	Unknown	Not Provided	Not Provided										
+24	Wild Type	11-23-18	Sweden		Unknown	Unknown	Not Provided	Not Provided										
+25	Wild Type	11-26-18	Sweden		Unknown	Unknown	Not Provided	Not Provided										
+26	Wild Type	11-28-18	Sweden		Unknown	Unknown	Not Provided	Not Provided										
+27	Wild Type	03-06-19	Thailand		Unknown	Unknown	Not Provided	Not Provided										
+28	Wild Type	03-11-19	South Africa		Unknown	Unknown	Not Provided	Not Provided										
+29	Wild Type	03-29-19	Australia		Unknown	Unknown	Not Provided	Not Provided										
+100	Wild Type	01-01-91	Canada		Unknown	Negative	Not Provided	Agar Dilution		< 0.016	< 0.002							WHO-F

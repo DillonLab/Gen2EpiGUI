@@ -1,0 +1,233 @@
+Allele Type	AMR Markers	Collection Date	Originating Country	Patient Age	Patient Gender	Beta-Lactamase	Isolate Classification(s)	MICs Determined By	Azithromycin	Cefixime	Ceftriaxone	Ciprofloxacin	Erythromycin	Penicillin	Spectinomycin	Tetracycline	Additional Epidemiological Data	Curator Comments
+1	-35A Del	01-01-97	Thialand		Unknown	Negative	TRNG	Agar Dilution		< 0.016								WHO-G;
+2	-35A Del	07-07-10	Canada		Male	Negative	CMRNG/CipR	Agar Dilution									Penis/Urethra	
+3	Wild Type				Unknown	Unknown	Not Provided	Not Provided										
+4	Wild Type	10-22-10	Canada		Male	Negative	S	Agar Dilution									Penis/Urethra	
+5	Wild Type	04-29-05	Canada		Female	Negative	S	Agar Dilution									Cervix	
+6	Wild Type	09-22-04	Canada		Male	Negative	S	Agar Dilution									Penis/Urethra	
+7	Wild Type	01-01-01	Canada		Male	Negative	S	Agar Dilution									Penis/Urethra	
+8	Wild Type	01-08-14	Canada		Male	Negative	S	Agar Dilution									Penis/Urethra	
+9	A39T	12-01-05	Canada	53	Male	Negative	S	Agar Dilution										
+10	A39T		Unknown		Unknown	Unknown	Not Provided	Not Provided										ATCC49226;
+11	A39T	01-01-10	Canada	25	Female	Negative	S	Agar Dilution										
+12	Wild Type	01-01-11	Canada	24	Male	Negative	S	Agar Dilution									Penis/Urethra	
+13	Wild Type	12-23-09	Canada	24	Male	Negative	S	Agar Dilution										
+14	Wild Type	01-01-91	Canada		Unknown	Negative	Not Provided	Agar Dilution		< 0.016	< 0.002							WHO-F
+15	Wild Type	10-25-05	Canada	36	Male	Negative	S	Agar Dilution									Penis/Urethra	
+16	-35A Del	10-20-12	Canada	29	Male	Negative	CMRNG/CipR	Agar Dilution					≥ 64.0					
+17	Wild Type	06-28-15	Canada	23	Male	Unknown	S	Agar Dilution									Urethra	
+18	Wild Type	01-25-01	Canada		Female	Negative	S	Agar Dilution									Cervix	
+19	-35A Del, G45D	01-01-92	Philippines		Unknown	Positive	PPNG	Agar Dilution		< 0.016								WHO-M;
+20	A39T	02-08-01	Canada		Male	Positive	PPNG/CxDS/CMRNG	Agar Dilution										
+21	Wild Type	01-01-98	Canada		Male	Negative	TRNG/PenR	Agar Dilution								≥ 128.0	Urethra	
+22	-35A Del	01-21-08	Canada	36	Female	Negative	CMRNG/CipR	Agar Dilution					≥ 128.0					
+23	A39T	04-07-10	Canada	34	Male	Negative	S	Agar Dilution										
+24	A39T	05-10-11	Canada	19	Male	Negative	S	Agar Dilution										
+25	G45D	01-01-96	Asia		Unknown	Negative	CMRNG	Agar Dilution				> 32.0						WHO-L;
+26	A39T	01-01-01	Australia		Unknown	Positive	PPNG	Agar Dilution		< 0.016								WHO-N;
+27	Meningiditis-like promoter	03-11-09	Canada		Male	Negative	TetR/EryR	Agar Dilution									Rectum	N. meningiditis-like
+28	Meningiditis-like promoter	07-30-14	Canada	32	Male	Negative	TetR/EryR	Agar Dilution									Penis/Urethra	N. meningiditis-like
+29	Wild Type	04-08-15	Canada	26	Female	Unknown	TetR	Agar Dilution									Cervix	
+30	Meningiditis-like promoter	08-07-13	Canada	35	Male	Negative	Probable-CMRNG	Agar Dilution									Throat	N. meningiditis-like
+31	A39T	05-08-13	Canada	34	Male	Negative	EryR	Agar Dilution										
+32	Wild Type		USA		Unknown	Negative	Not Provided	Agar Dilution		< 0.016								WHO-P
+33	Wild Type	09-01-07	Canada		Unknown	Negative	CeDS/CipR/CxDS/TetR	Agar Dilution										
+34	-35A Del	07-13-10	Canada		Male	Negative	CMRNG/CipR	Agar Dilution									Rectum	
+35	A39T	01-01-10	Canada	51	Male	Unknown	CMRNG	Agar Dilution									Rectum	
+36	-35A Del, A39T	01-01-96	Canada		Male	Negative	CMRNG	Agar Dilution									Penis/Urethra	
+37	-35A Del, A39T, G45D	01-01-97	Canada		Male	Negative	CMRNG/CipR	Agar Dilution									Penis/Urethra	
+38	A39T	01-14-13	Canada		Male	Negative	TRNG/EryR/CipR	Agar Dilution									Penis/Urethra	
+39	Meningiditis-like promoter	11-02-15	Canada	25	Female	Negative	Probable-CMRNG/CipR/AzR	Agar Dilution									Cervix	N. meningiditis-like
+40	A39T	02-23-16	Canada	29	Male	Negative	CipR	Agar Dilution									Rectal	
+41	A39T	11-17-15	Canada		Unknown	Negative	TRNG	Agar Dilution									Urethra	
+42	A39T	06-16-16	Canada		Unknown	Negative	S	Agar Dilution									Rectal	
+43	A39T	10-27-11	Netherlands	19	Female	Unknown	Not Provided	Agar Dilution									Cervix	
+44	Meningiditis-like promoter		USA		Unknown	Unknown	Not Provided	Agar Dilution										N. meningiditis-like; CDC reference culture 0186
+45	Wild Type	10-06-16	USA		Unknown	Unknown	Not Provided	Not Provided										
+46	Meningiditis-like promoter	10-06-16	USA		Unknown	Unknown	Not Provided	Not Provided										N. meningiditis-like
+47	A39T	10-07-16	USA		Unknown	Unknown	Not Provided	Not Provided										
+48	Wild Type	10-11-16	USA		Unknown	Unknown	Not Provided	Not Provided										
+49	A39T	10-12-16	USA		Unknown	Unknown	Not Provided	Not Provided										
+50	Wild Type	01-01-11	Sweden		Unknown	Unknown	Not Provided	Agar Dilution		< 0.016			> 256.0					WHO-U. T insert at position 19.
+51	Wild Type	01-01-10	France		Unknown	Unknown	Not Provided	Agar Dilution				> 32.0						Wild Type; WHO-Y
+52	Wild Type		USA		Unknown	Unknown	Not Provided	Not Provided										
+53	A39T,G45D		USA		Unknown	Unknown	Not Provided	Not Provided										
+54	A39T		USA		Unknown	Unknown	Not Provided	Not Provided										
+55	Wild Type		USA		Unknown	Unknown	Not Provided	Not Provided										
+56	Meningiditis-like promoter		USA		Unknown	Unknown	Not Provided	Not Provided										
+57	Wild Type		USA		Unknown	Unknown	Not Provided	Not Provided										
+58	Wild Type		USA		Unknown	Unknown	Not Provided	Not Provided										
+59	A39T		USA		Unknown	Unknown	Not Provided	Not Provided										
+60	Wild Type		USA		Unknown	Unknown	Not Provided	Not Provided										
+61	A39T		USA		Unknown	Unknown	Not Provided	Not Provided										
+62	A39T		USA		Unknown	Unknown	Not Provided	Not Provided										
+63	-35A Del,A39T		USA		Unknown	Unknown	Not Provided	Not Provided										
+64	-35A Del		USA		Unknown	Unknown	Not Provided	Not Provided										
+65	A39T		USA		Unknown	Unknown	Not Provided	Not Provided										
+66	A39T		USA		Unknown	Unknown	Not Provided	Not Provided										T insert at position 19.
+67	Wild Type		USA		Unknown	Unknown	Not Provided	Not Provided										
+68	A39T		USA		Unknown	Unknown	Not Provided	Not Provided										
+69	Wild Type		USA		Unknown	Unknown	Not Provided	Not Provided										
+70	-35A Del,G45D		USA		Unknown	Unknown	Not Provided	Not Provided										
+71	A39T		USA		Unknown	Unknown	Not Provided	Not Provided										
+72	Wild Type		USA		Unknown	Unknown	Not Provided	Not Provided										Two nucleotide insert -CC- at position 637.
+73	A39T		USA		Unknown	Unknown	Not Provided	Not Provided										
+74	Wild Type		USA		Unknown	Unknown	Not Provided	Not Provided										
+75	Wild Type		USA		Unknown	Unknown	Not Provided	Not Provided										
+76	A39T		USA		Unknown	Unknown	Not Provided	Not Provided										
+77	A39T		USA		Unknown	Unknown	Not Provided	Not Provided										
+78	A39T		USA		Unknown	Unknown	Not Provided	Not Provided										
+79	-35A Del		USA		Unknown	Unknown	Not Provided	Not Provided										
+80	Wild Type		USA		Unknown	Unknown	Not Provided	Not Provided										
+81	Wild Type				Unknown	Unknown	Not Provided	Not Provided										
+82	A39T				Unknown	Unknown	Not Provided	Not Provided										
+83	A39T				Unknown	Unknown	Not Provided	Not Provided										
+84	A39T				Unknown	Unknown	Not Provided	Not Provided										
+85	A39T				Unknown	Unknown	Not Provided	Not Provided										
+86	Wild Type				Unknown	Unknown	Not Provided	Not Provided										
+87	A39T				Unknown	Unknown	Not Provided	Not Provided										
+88	Wild Type				Unknown	Unknown	Not Provided	Not Provided										
+89	A39T				Unknown	Unknown	Not Provided	Not Provided										
+90	Wild Type				Unknown	Unknown	Not Provided	Not Provided										
+91	Wild Type				Unknown	Unknown	Not Provided	Not Provided										
+92	A39T				Unknown	Unknown	Not Provided	Not Provided										
+93	A39T				Unknown	Unknown	Not Provided	Not Provided										
+94	Wild Type				Unknown	Unknown	Not Provided	Not Provided										
+95	-35A Del,A39T				Unknown	Unknown	Not Provided	Not Provided										
+96	A39T				Unknown	Unknown	Not Provided	Not Provided										
+97	A39T				Unknown	Unknown	Not Provided	Not Provided										
+98	Wild Type				Unknown	Unknown	Not Provided	Not Provided										
+99	A39T				Unknown	Unknown	Not Provided	Not Provided										
+100	Wild Type	12-08-10	Canada	35	Female	Negative	EryR	Agar Dilution					≥ 64.0				Throat	
+101	A39T				Unknown	Unknown	Not Provided	Not Provided										
+102	Wild Type				Unknown	Unknown	Not Provided	Not Provided										
+103	Wild Type				Unknown	Unknown	Not Provided	Not Provided										
+104	Wild Type				Unknown	Unknown	Not Provided	Not Provided										
+105	A39T,G45D				Unknown	Unknown	Not Provided	Not Provided										
+106	Wild Type				Unknown	Unknown	Not Provided	Not Provided										
+107	A39T				Unknown	Unknown	Not Provided	Not Provided										
+108	Wild Type				Unknown	Unknown	Not Provided	Not Provided										
+109	Wild Type				Unknown	Unknown	Not Provided	Not Provided										
+110	-35A Del,A39T				Unknown	Unknown	Not Provided	Not Provided										
+111	-35A Del				Unknown	Unknown	Not Provided	Not Provided										
+112	Meningiditis-like promoter; A39T				Unknown	Unknown	Not Provided	Not Provided										
+113	-35A Del				Unknown	Unknown	Not Provided	Not Provided										
+114	Wild Type				Unknown	Unknown	Not Provided	Not Provided										
+115	A39T				Unknown	Unknown	Not Provided	Not Provided										
+116	A39T				Unknown	Unknown	Not Provided	Not Provided										
+117	Disrupted WHO-P-like promoter				Unknown	Unknown	Not Provided	Not Provided										
+118	-35A Del				Unknown	Unknown	Not Provided	Not Provided										
+119	Wild Type				Unknown	Unknown	Not Provided	Not Provided										
+120	G45D				Unknown	Unknown	Not Provided	Not Provided										
+121	Wild Type				Unknown	Unknown	Not Provided	Not Provided										
+122	A39T				Unknown	Unknown	Not Provided	Not Provided										
+123	A39T				Unknown	Unknown	Not Provided	Not Provided										
+124	A39T				Unknown	Unknown	Not Provided	Not Provided										
+125	A39T				Unknown	Unknown	Not Provided	Not Provided										
+126	A39T				Unknown	Unknown	Not Provided	Not Provided										
+127	Wild Type				Unknown	Unknown	Not Provided	Not Provided										
+128	A39T				Unknown	Unknown	Not Provided	Not Provided										
+129	Wild Type				Unknown	Unknown	Not Provided	Not Provided										
+130	A39T				Unknown	Unknown	Not Provided	Not Provided										
+131	A39T				Unknown	Unknown	Not Provided	Not Provided										
+132	-35A Del; G45D				Unknown	Unknown	Not Provided	Not Provided										
+133	A39T				Unknown	Unknown	Not Provided	Not Provided										
+134	Wild Type				Unknown	Unknown	Not Provided	Not Provided										
+135	A39T				Unknown	Unknown	Not Provided	Not Provided										
+136	Wild Type				Unknown	Unknown	Not Provided	Not Provided										
+137	Wild Type				Unknown	Unknown	Not Provided	Not Provided										
+138	Wild Type				Unknown	Unknown	Not Provided	Not Provided										
+139	Wild Type				Unknown	Unknown	Not Provided	Not Provided										
+140	A39T				Unknown	Unknown	Not Provided	Not Provided										
+141	A39T				Unknown	Unknown	Not Provided	Not Provided										
+142	Wild Type				Unknown	Unknown	Not Provided	Not Provided										
+143	Wild Type				Unknown	Unknown	Not Provided	Not Provided										
+144	A39T; Disrupted WHO like promoter				Unknown	Unknown	Not Provided	Not Provided										
+145	Wild Type				Unknown	Unknown	Not Provided	Not Provided										
+146	Wild Type				Unknown	Unknown	Not Provided	Not Provided										
+147	-35A Del				Unknown	Unknown	Not Provided	Not Provided										
+148	Wild Type				Unknown	Unknown	Not Provided	Not Provided										
+149	A39T				Unknown	Unknown	Not Provided	Not Provided										
+150	A39T				Unknown	Unknown	Not Provided	Not Provided										
+151	Wild Type				Unknown	Unknown	Not Provided	Not Provided										
+152	Wild Type				Unknown	Unknown	Not Provided	Not Provided										
+153	A39T				Unknown	Unknown	Not Provided	Not Provided										
+154	A39T				Unknown	Unknown	Not Provided	Not Provided										
+155	A39T; Disrupted WHO-P like promoter				Unknown	Unknown	Not Provided	Not Provided										
+156	A39T				Unknown	Unknown	Not Provided	Not Provided										
+157	A39T				Unknown	Unknown	Not Provided	Not Provided										
+158	-35A Del; G45D				Unknown	Unknown	Not Provided	Not Provided										
+159	Wild Type				Unknown	Unknown	Not Provided	Not Provided										
+160	Wild Type				Unknown	Unknown	Not Provided	Not Provided										Same sequence as mtrR5, but with TAG stop codon instead of TAA
+161	Wild Type				Unknown	Unknown	Not Provided	Not Provided										Same sequence as mtrR18, but with TAG stop codon instead of TAA
+162	Wild Type	01-18-18	Sweden		Unknown	Unknown	Not Provided	Not Provided										
+163	A39T	01-23-18	Sweden		Unknown	Unknown	Not Provided	Not Provided										
+164	A39T	01-23-18	Sweden		Unknown	Unknown	Not Provided	Not Provided										
+165	Disrupted WHO-P like promoter	01-23-18	Sweden		Unknown	Unknown	Not Provided	Not Provided										
+166	A39T	03-01-18	Sweden		Unknown	Unknown	Not Provided	Not Provided										
+167	A39T	03-01-18	Sweden		Unknown	Unknown	Not Provided	Not Provided										
+168	Wild Type	03-01-18	Sweden		Unknown	Unknown	Not Provided	Not Provided										
+169	Wild Type	03-01-18	Sweden		Unknown	Unknown	Not Provided	Not Provided										
+170	Disrupted WHO-P like promoter	03-01-18	Sweden		Unknown	Unknown	Not Provided	Not Provided										
+171	Wild Type	03-01-18	Sweden		Unknown	Unknown	Not Provided	Not Provided										
+172	-35A Del	03-01-18	Sweden		Unknown	Unknown	Not Provided	Not Provided										
+173	Wild Type	03-01-18	Sweden		Unknown	Unknown	Not Provided	Not Provided										
+174	A39T	03-01-18	Sweden		Unknown	Unknown	Not Provided	Not Provided										
+175	Wild Type	03-01-18	Sweden		Unknown	Unknown	Not Provided	Not Provided										
+176	A39T	03-01-18	Sweden		Unknown	Unknown	Not Provided	Not Provided										
+177	-35A Del	03-01-18	Sweden		Unknown	Unknown	Not Provided	Not Provided										
+178	A39T	03-21-18	Sweden		Unknown	Unknown	Not Provided	Not Provided										
+179	-35A Del, A39T	06-21-18	Australia		Unknown	Unknown	Not Provided	Not Provided										
+180	Meningiditis-like promoter	02-10-17	Canada	41	Male	Unknown	Not Provided	E-Test									Throat culture	
+181	A39T	02-29-16	Canada	32	Male	Unknown	CipR/EryR/PPNG/TRNG	Agar Dilution									Rectal	
+182	Wild Type	09-18-18	Sweden		Unknown	Unknown	Not Provided	Not Provided										
+183	A39T	09-19-18	Canada		Unknown	Unknown	Not Provided	Not Provided										
+184	Wild Type	09-19-18	Canada		Unknown	Unknown	Not Provided	Not Provided										
+185	A39T	09-27-18	Sweden		Unknown	Unknown	Not Provided	Not Provided										
+186	A39T	10-04-18	Sweden		Unknown	Unknown	Not Provided	Not Provided										
+187	Wild Type	10-04-18	Sweden		Unknown	Unknown	Not Provided	Not Provided										
+188	Wild Type	10-04-18	Sweden		Unknown	Unknown	Not Provided	Not Provided										
+189	Wild Type	10-04-18	Sweden		Unknown	Unknown	Not Provided	Not Provided										
+190	A39T	10-04-18	Sweden		Unknown	Unknown	Not Provided	Not Provided										
+191	-35A Del	01-09-16	Canada		Male	Unknown	Not Provided	Agar Dilution									Rectal	
+192	-35A Del	03-03-17	Canada	22	Male	Unknown	Probable-CMRNG/CxDS/CipR	Agar Dilution									Rectal	
+193	Wild Type	10-25-18	Sweden		Unknown	Unknown	Not Provided	Not Provided										
+194	A39T	10-25-18	Sweden		Unknown	Unknown	Not Provided	Not Provided										
+195	A39T	10-25-18	Sweden		Unknown	Unknown	Not Provided	Not Provided										
+196	A39T	10-25-18	Sweden		Unknown	Unknown	Not Provided	Not Provided										
+197	A39T	10-25-18	Sweden		Unknown	Unknown	Not Provided	Not Provided										
+198	A39T	10-25-18	Sweden		Unknown	Unknown	Not Provided	Not Provided										
+199	A39T	10-25-18	Sweden		Unknown	Unknown	Not Provided	Not Provided										
+200	A39T	10-25-18	Sweden		Unknown	Unknown	Not Provided	Not Provided										
+201	A39T	10-25-18	Sweden		Unknown	Unknown	Not Provided	Not Provided										
+202	A39T	10-25-18	Sweden		Unknown	Unknown	Not Provided	Not Provided										
+203	A39T	10-25-18	Australia		Unknown	Unknown	Not Provided	Not Provided										
+204	A39T	10-25-18	Sweden		Unknown	Unknown	Not Provided	Not Provided										
+205	Wild Type	10-31-18	Sweden		Unknown	Unknown	Not Provided	Not Provided										
+206	A39T	11-07-18	Sweden		Unknown	Unknown	Not Provided	Not Provided										
+207	Wild Type	11-07-18	Sweden		Unknown	Unknown	Not Provided	Not Provided										
+208	Wild Type	11-07-18	Sweden		Unknown	Unknown	Not Provided	Not Provided										
+209	Wild Type	11-07-18	Sweden		Unknown	Unknown	Not Provided	Not Provided										
+210	-35A Del	11-23-18	Sweden		Unknown	Unknown	Not Provided	Not Provided										
+211	A39T	11-28-18	Sweden		Unknown	Unknown	Not Provided	Not Provided										
+212	Wild Type	12-21-18	Sweden		Unknown	Unknown	Not Provided	Not Provided										
+213	Wild Type	12-21-18	Sweden		Unknown	Unknown	Not Provided	Not Provided										
+214	Wild Type	12-21-18	Sweden		Unknown	Unknown	Not Provided	Not Provided										
+215	A39T	01-01-14	USA		Unknown	Negative	CipR/AzR	E-Test									Rectal swab	
+216	A39T	02-11-19	Sweden		Unknown	Unknown	Not Provided	Not Provided										
+217	A39T	03-11-19	South Africa		Unknown	Unknown	Not Provided	Not Provided										
+218	A39T				Unknown	Unknown	Not Provided	Not Provided										
+219	Wild Type				Unknown	Unknown	Not Provided	Not Provided										
+220	-35A Del		Canada		Unknown	Unknown	Not Provided	Not Provided										
+221	Wild Type				Unknown	Unknown	Not Provided	Not Provided										
+222	Meningiditis-like promoter; A39T	04-05-18	Canada	30	Male	Unknown	TetR/EryR/CipR/AzR	Agar Dilution									Throat	
+223	A39T	04-04-19	United Kingdom		Unknown	Unknown	Not Provided	Not Provided										
+224	A39T	04-04-19	United Kingdom		Unknown	Unknown	Not Provided	Not Provided										
+225	A39T	04-04-19	United Kingdom		Unknown	Unknown	Not Provided	Not Provided										
+226	Wild Type	04-04-19	United Kingdom		Unknown	Unknown	Not Provided	Not Provided										
+227	Wild Type	04-04-19	United Kingdom		Unknown	Unknown	Not Provided	Not Provided										
+228	Wild Type	04-04-19	United Kingdom		Unknown	Unknown	Not Provided	Not Provided										
+229	Wild Type	04-04-19	United Kingdom		Unknown	Unknown	Not Provided	Not Provided										
+230	A39T	04-04-19	United Kingdom		Unknown	Unknown	Not Provided	Not Provided										
+231	Wild Type	04-04-19	United Kingdom		Unknown	Unknown	Not Provided	Not Provided										
+232	-35A Del; G45D	04-04-19	United Kingdom		Unknown	Unknown	Not Provided	Not Provided										

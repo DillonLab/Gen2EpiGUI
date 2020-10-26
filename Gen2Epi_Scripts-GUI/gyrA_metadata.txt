@@ -1,0 +1,29 @@
+Allele Type	AMR Markers	Collection Date	Originating Country	Patient Age	Patient Gender	Beta-Lactamase	Isolate Classification(s)	MICs Determined By	Azithromycin	Cefixime	Ceftriaxone	Ciprofloxacin	Erythromycin	Penicillin	Spectinomycin	Tetracycline	Additional Epidemiological Data	Curator Comments
+1	S91F, D95G	01-01-92	Philippines		Unknown	Positive	PPNG	Agar Dilution		< 0.016								WHO-M
+2	S91F, D95N	01-01-96	Asia		Unknown	Negative	CMRNG	Agar Dilution				> 32.0						WHO-L
+3	S91Y	01-01-96	Canada		Male	Negative	CMRNG	Agar Dilution									Penis/Urethra	
+4	Wild Type	01-15-01	Canada	14	Female	Negative	Not Provided	Agar Dilution										
+5	S91F	01-01-97	Thialand		Unknown	Negative	TRNG	Agar Dilution		< 0.016								WHO-G
+6	Wild Type	09-22-04	Canada		Male	Negative	Not Provided	Agar Dilution									Penis/Urethra	
+7	S91F, D95A	10-19-04	Canada	37	Male	Positive	CipR/EryR/PPNG/TRNG	Agar Dilution	≥ 512.0				≥ 64.0				Penis/Urethra	
+8	Wild Type	01-01-12	Canada	36	Male	Negative	Not Provided	Agar Dilution									Penis/Urethra	
+9	S91F	09-27-06	Canada		Male	Negative	CeDS/CipR/CxDS/PenR/TetR	Agar Dilution									Penis/Urethra	
+10	Wild Type	06-16-16	Canada		Unknown	Negative	S	Agar Dilution									Rectal	
+11	S91T		USA		Unknown	Unknown	Not Provided	Not Provided										
+12	D95N		USA		Unknown	Unknown	Not Provided	Not Provided										
+13	S91T		USA		Unknown	Unknown	Not Provided	Not Provided										
+14	D95N		USA		Unknown	Unknown	Not Provided	Not Provided										
+15	S91F,D95A		USA		Unknown	Unknown	Not Provided	Not Provided										
+16	S91F,D95Y		USA		Unknown	Unknown	Not Provided	Not Provided										
+17	S91Y		USA		Unknown	Unknown	Not Provided	Not Provided										
+18	S91F,D95G		USA		Unknown	Unknown	Not Provided	Not Provided										Premature STOP codon at position 2.
+19	Wild type		USA		Unknown	Unknown	Not Provided	Not Provided										
+20	Wild Type		USA		Unknown	Unknown	Not Provided	Not Provided										
+21	S91F,D95A		USA		Unknown	Unknown	Not Provided	Not Provided										
+22	D95G	01-11-18	Sweden		Unknown	Unknown	Not Provided	Not Provided										
+23	D91F, D95G	04-26-18	Sweden		Unknown	Unknown	Not Provided	Not Provided										
+24	S91F, D95G	11-23-18	Sweden		Unknown	Unknown	Not Provided	Not Provided										
+25	S91F, D95N	11-23-18	Sweden		Unknown	Unknown	Not Provided	Not Provided										
+26	S91T	12-21-18	Sweden		Unknown	Unknown	Not Provided	Not Provided										
+27	S91T	02-08-19	South Africa		Unknown	Unknown	Not Provided	Not Provided										
+100	Wild Type		USA		Unknown	Negative	Not Provided	Agar Dilution		< 0.016								WHO-P
