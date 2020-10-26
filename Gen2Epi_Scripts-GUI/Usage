@@ -1,0 +1,41 @@
+#### Data Cleaning
+
+1) perl Prepare_Input.pl /home/gen2epi/Desktop/Test_DATA/WHO_Data 5 Test
+
+2) perl WGS_SIBP_P1.pl /home/gen2epi/Desktop/Test_DATA/Input /home/gen2epi/Desktop/Test_DATA/WHO_Data qualitycheck Test
+
+3) perl WGS_SIBP_P1.pl /home/gen2epi/Desktop/Test_DATA/Input /home/gen2epi/Desktop/Test_DATA/WHO_Data Trimming Test 3 3 4:15 30
+
+4) perl WGS_SIBP_P1.pl /home/gen2epi/Desktop/Test_DATA/Input /home/gen2epi/Desktop/Test_DATA/WHO_Data both Test 3 3 4:15 30
+
+#### Assembly 
+
+5) perl WGS_SIBP_P2.pl /home/gen2epi/Desktop/Test_DATA/Input Test/Trimming trimmed 2 Test
+
+6) perl WGS_SIBP_P3-Chr-C1.pl /home/gen2epi/Desktop/Test_DATA/Input /home/gen2epi/Desktop/Test_DATA/WHO_Full_Reference_genome/Chromosome /home/gen2epi/Desktop/Gen2Epi_Scripts/Test/Chrom_AssemblyTrimmedReads /home/gen2epi/Desktop/Test_DATA/WHO_Genome_Annotation/Chromosome 2 TXT Test
+
+7) perl WGS_SIBP_P3-Plas_C1.pl /home/gen2epi/Desktop/Test_DATA/Input /home/gen2epi/Desktop/Gen2Epi_Scripts/Test/Plasmid_AssemblyTrimmedReads 1 /home/gen2epi/Desktop/Test_DATA/Plasmid.fasta Test
+
+#### AMR & Strain
+
+8) perl MASTdbUpdate.pl    #### MAST db update
+
+9) perl WGS_SIBP_P4_Epi.pl /home/gen2epi/Desktop/Test_DATA/Input /home/gen2epi/Desktop/Gen2Epi_Scripts/Test/Chr_Scaffolds NGMAST Test
+
+10) perl MLSTdbUpdate.pl    #### MLST db update 
+
+11) perl WGS_SIBP_P4_Epi.pl /home/gen2epi/Desktop/Test_DATA/Input /home/gen2epi/Desktop/Gen2Epi_Scripts/Test/Chr_Scaffolds MLST Test MLST-Genes.fasta MLST_alleles.fasta pubMLST_profile.txt
+
+12) perl ngSTARdb.pl       #### STAR db update
+	
+13) perl NgSTARmeta.pl     #### STAR db update
+
+14) perl WGS_SIBP_P4_Epi.pl /home/gen2epi/Desktop/Test_DATA/Input /home/gen2epi/Desktop/Gen2Epi_Scripts/Test/Chr_Scaffolds ngstar Test AMR-Genes-NgStar.fasta AMR-Genes-NgStar-alleles.fasta
+
+15) perl TetRes.pl rpsJ.fasta Test/Chr_Scaffolds/All_Sequences Test
+
+16) perl SeqProt.pl Test/TetResOut Test
+
+#### Extra Commands
+
+17) perl ReadMapping.pl /home/gen2epi/Desktop/Test_DATA/Input /home/gen2epi/Desktop/Test_DATA/WHO_Full_Reference_genome/Chromosome/WHO-F.fasta /home/gen2epi/Desktop/Test_DATA/WHO_Data Test

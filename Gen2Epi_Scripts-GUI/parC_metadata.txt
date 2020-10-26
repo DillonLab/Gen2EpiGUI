@@ -1,0 +1,88 @@
+Allele Type	AMR Markers	Collection Date	Originating Country	Patient Age	Patient Gender	Beta-Lactamase	Isolate Classification(s)	MICs Determined By	Azithromycin	Cefixime	Ceftriaxone	Ciprofloxacin	Erythromycin	Penicillin	Spectinomycin	Tetracycline	Additional Epidemiological Data	Curator Comments
+1	Wild Type	01-01-97	Thialand		Unknown	Negative	TRNG	Agar Dilution		< 0.016								WHO-G
+2	Wild Type	02-05-98	Canada		Male	Negative	CMRNG	Agar Dilution									Penis/Urethra	
+3	S87R	02-01-98	Canada		Unknown	Negative	CMRNG/CipR	Agar Dilution										
+4	D86N	09-01-98	Canada		Unknown	Negative	CMRNG/CipR	Agar Dilution									Penis/Urethra	
+5	S87R, S88P	01-01-03	Japan		Unknown	Negative	CMRNG	Agar Dilution				> 32.0						WHO-K
+6	Wild Type	10-19-04	Canada	37	Male	Positive	CipR/EryR/PPNG/TRNG	Agar Dilution	≥ 512.0				≥ 64.0				Penis/Urethra	
+7	Wild Type	01-01-91	Canada		Unknown	Positive	PPNG	Agar Dilution						> 32.0	> 1024.0			WHO-O
+8	S87N	06-23-08	Canada	43	Female	Negative	CipR	Agar Dilution										
+9	D86N	01-01-11	Canada	62	Male	Negative	CMRNG/CipR	Agar Dilution										
+10	Wild Type	01-01-97	Canada		Male	Negative	CMRNG/CipR	Agar Dilution									Penis/Urethra	
+11	D86N, S88P	01-01-96	Asia		Unknown	Negative	CMRNG	Agar Dilution				> 32.0						WHO-L
+12	S87I	01-01-01	Australia		Unknown	Positive	PPNG	Agar Dilution		< 0.016								WHO-N
+13	S87N	01-01-05	Canada		Unknown	Negative	Not Provided	Agar Dilution										
+14	S87R	01-01-06	Canada	18	Male	Negative	TetR/CipR	Agar Dilution										
+15	S87N	01-14-13	Canada		Male	Negative	TRNG/EryR/CipR	Agar Dilution									Penis/Urethra	
+16	S87R	01-01-12	Canada	42	Male	Negative	CeDS/CipR/CMRNG/CxDS	Agar Dilution										
+17	Wild Type	11-17-15	Canada		Unknown	Negative	TRNG	Agar Dilution									Urethra	
+18	D86N	10-10-06	Netherlands	27	Male	Unknown	Not Provided	Agar Dilution									Tonsil	
+19	Wild Type	10-11-16	USA		Unknown	Unknown	Not Provided	Not Provided										
+20	S87N	10-12-16	USA		Unknown	Unknown	Not Provided	Not Provided										
+21	Wild Type	10-13-16	USA		Unknown	Unknown	Not Provided	Not Provided										
+22	Wild Type		USA		Unknown	Unknown	Not Provided	Not Provided										
+23	S87R		USA		Unknown	Unknown	Not Provided	Not Provided										
+24	S87I		USA		Unknown	Unknown	Not Provided	Not Provided										
+25	S87R		USA		Unknown	Unknown	Not Provided	Not Provided										
+26	S87N		USA		Unknown	Unknown	Not Provided	Not Provided										
+27	Wild Type		USA		Unknown	Unknown	Not Provided	Not Provided										
+28	D86N		USA		Unknown	Unknown	Not Provided	Not Provided										
+29	S88P		USA		Unknown	Unknown	Not Provided	Not Provided										
+30	Wild Type		USA		Unknown	Unknown	Not Provided	Not Provided										
+31	S87N		USA		Unknown	Unknown	Not Provided	Not Provided										
+32	Wild Type		USA		Unknown	Unknown	Not Provided	Not Provided										
+33	S87N		USA		Unknown	Unknown	Not Provided	Not Provided										
+34	Wild Type		USA		Unknown	Unknown	Not Provided	Not Provided										
+35	Wild Type		USA		Unknown	Unknown	Not Provided	Not Provided										
+36	Wild Type		USA		Unknown	Unknown	Not Provided	Not Provided										
+37	Wild Type		USA		Unknown	Unknown	Not Provided	Not Provided										
+38	Wild Type		USA		Unknown	Unknown	Not Provided	Not Provided										
+39	S87R,S88P		USA		Unknown	Unknown	Not Provided	Not Provided										
+40	Wild Type		USA		Unknown	Unknown	Not Provided	Not Provided										
+41	S88P		USA		Unknown	Unknown	Not Provided	Not Provided										
+42	Wild Type		USA		Unknown	Unknown	Not Provided	Not Provided										
+43	S87N		USA		Unknown	Unknown	Not Provided	Not Provided										
+44	Wild Type		USA		Unknown	Unknown	Not Provided	Not Provided										
+45	S87I		USA		Unknown	Unknown	Not Provided	Not Provided										
+46	Wild Type		USA		Unknown	Unknown	Not Provided	Not Provided										
+47	S87R		USA		Unknown	Unknown	Not Provided	Not Provided										
+48	S87I		USA		Unknown	Unknown	Not Provided	Not Provided										
+49	Wild Type		USA		Unknown	Unknown	Not Provided	Not Provided										
+50	Wild Type		USA		Unknown	Unknown	Not Provided	Not Provided										
+51	S88P		USA		Unknown	Unknown	Not Provided	Not Provided										
+52	Wild Type		USA		Unknown	Unknown	Not Provided	Not Provided										
+53	S87C		USA		Unknown	Unknown	Not Provided	Not Provided										
+54	Wild Type		USA		Unknown	Unknown	Not Provided	Not Provided										
+55	S87N		USA		Unknown	Unknown	Not Provided	Not Provided										
+56	Wild Type		USA		Unknown	Unknown	Not Provided	Not Provided										
+57	Wild Type		USA		Unknown	Unknown	Not Provided	Not Provided										
+58	Wild Type		USA		Unknown	Unknown	Not Provided	Not Provided										
+59	D86N,S87I		USA		Unknown	Unknown	Not Provided	Not Provided										
+60	Wild Type		USA		Unknown	Unknown	Not Provided	Not Provided										
+61	S88P	01-19-18	Sweden		Unknown	Unknown	Not Provided	Not Provided										
+62	D86N	01-19-18	Sweden		Unknown	Unknown	Not Provided	Not Provided										
+63	Wild Type	03-01-18	Sweden		Unknown	Unknown	Not Provided	Not Provided										
+64	S88P	03-01-18	Sweden		Unknown	Unknown	Not Provided	Not Provided										
+65	S87N	03-01-18	Sweden		Unknown	Unknown	Not Provided	Not Provided										
+66	S87R	09-11-17	Italy		Unknown	Unknown	Not Provided	Not Provided										
+67	Wild Type	09-19-18	Canada		Unknown	Unknown	Not Provided	Not Provided										
+68	Wild Type	10-18-18	Sweden		Unknown	Unknown	Not Provided	Not Provided										
+69	Wild Type	10-19-18	Sweden		Unknown	Unknown	Not Provided	Not Provided										
+70	Wild Type	10-19-18	Sweden		Unknown	Unknown	Not Provided	Not Provided										
+71	Wild Type	10-26-18	Sweden		Unknown	Unknown	Not Provided	Not Provided										
+72	S88P	10-26-18	Sweden		Unknown	Unknown	Not Provided	Not Provided										
+73	Wild Type	10-26-18	Sweden		Unknown	Unknown	Not Provided	Not Provided										
+74	S87R	10-26-18	Sweden		Unknown	Unknown	Not Provided	Not Provided										
+75	S87N	10-29-18	Japan		Unknown	Unknown	Not Provided	Not Provided										
+76	S87R	11-02-18	Sweden		Unknown	Unknown	Not Provided	Not Provided										
+77	S88P	11-07-18	Sweden		Unknown	Unknown	Not Provided	E-Test										
+78	D86N	11-07-18	Sweden		Unknown	Unknown	Not Provided	Not Provided										
+79	S87N	11-07-18	Sweden		Unknown	Unknown	Not Provided	Not Provided										
+80	S87N	11-23-18	Sweden		Unknown	Unknown	Not Provided	Not Provided										
+81	S87N	03-06-19	Thailand		Unknown	Unknown	Not Provided	Not Provided										
+82	S87R	03-06-19	Thailand		Unknown	Unknown	Not Provided	Not Provided										
+83	D86N	03-06-19	Thailand		Unknown	Unknown	Not Provided	Not Provided										
+84	D86N	03-06-19	Thailand		Unknown	Unknown	Not Provided	Not Provided										
+85	D87R S88P	03-18-19	Canada		Unknown	Unknown	Not Provided	Not Provided										
+86		04-04-19	Canada		Unknown	Unknown	Not Provided	Not Provided										
+100	Wild Type		USA		Unknown	Negative	Not Provided	Agar Dilution		< 0.016								WHO-P

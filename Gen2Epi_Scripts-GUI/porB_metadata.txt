@@ -1,0 +1,40 @@
+Allele Type	AMR Markers	Collection Date	Originating Country	Patient Age	Patient Gender	Beta-Lactamase	Isolate Classification(s)	MICs Determined By	Azithromycin	Cefixime	Ceftriaxone	Ciprofloxacin	Erythromycin	Penicillin	Spectinomycin	Tetracycline	Additional Epidemiological Data	Curator Comments
+1	Wild Type	01-01-01	Canada		Male	Negative	Not Provided	Agar Dilution									Penis/Urethra	
+2	A121D		USA		Unknown	Negative	Not Provided	Agar Dilution		< 0.016								
+3	A121S	01-01-98	Canada		Male	Negative	Not Provided	Agar Dilution										
+4	G120D	07-18-02	Canada		Male	Negative	Not Provided	Agar Dilution									Penis/Urethra	
+5	G120D, A121D	10-01-06	Canada		Female	Negative	CMRNG	Agar Dilution					≥ 64.0					
+6	G120D, A121N	01-01-99	Canada		Male	Negative	TetR/EryR	Agar Dilution										
+7	G120K, A121D	02-24-14	Canada		Male	Negative	CMRNG	Agar Dilution									Rectum	
+8	G120K, A121D	01-01-91	Canada		Unknown	Positive	PPNG	Agar Dilution						> 32.0	> 1024.0			
+9	G120R, A121D	01-01-12	Canada	64	Male	Negative	TRNG/CMRNG/CipR	Agar Dilution										
+10	G120K, A121D	08-01-07	Canada		Female	Negative	TetR/CxDS	Agar Dilution										
+11	G120K, A121N	12-20-00	Canada		Female	Negative	CxDS/CeDS	Agar Dilution										
+12	G120K, A121G	11-20-01	Canada		Male	Negative	CxDS	Agar Dilution										
+13	porB1a	01-01-01	Australia		Unknown	Positive	PPNG	Agar Dilution		< 0.016								porB1a
+14	porB1a	01-01-91	Canada		Unknown	Negative	Not Provided	Agar Dilution		< 0.016	< 0.002							porB1a
+15	A120K, A121V	11-17-15	Canada		Unknown	Negative	TRNG	Agar Dilution									Urethra	2 codon deletion results in 2 amino acid frame shift;
+16	G120N		USA		Unknown	Unknown	Not Provided	Agar Dilution										CDC reference culture 0192
+17	G120N, A121D		USA		Unknown	Unknown	Not Provided	Not Provided										
+19	porB1a		USA		Unknown	Unknown	Not Provided	Not Provided										porB1a
+20	porB1a		USA		Unknown	Unknown	Not Provided	Not Provided										porB1a
+21	G120N, A121D		USA		Unknown	Unknown	Not Provided	Not Provided										
+23	G120D		USA		Unknown	Unknown	Not Provided	Not Provided										
+24	G120N, A121N		USA		Unknown	Unknown	Not Provided	Not Provided										
+26	G120K, A121N		USA		Unknown	Unknown	Not Provided	Not Provided										
+27	A121N		USA		Unknown	Unknown	Not Provided	Not Provided										
+29	G120K, A121N		USA		Unknown	Unknown	Not Provided	Not Provided										
+30	G120D		USA		Unknown	Unknown	Not Provided	Not Provided										
+31	G120N, A121N		USA		Unknown	Unknown	Not Provided	Not Provided										
+33	G120C, A121S		USA		Unknown	Unknown	Not Provided	Not Provided										
+35	A121V		USA		Unknown	Unknown	Not Provided	Not Provided										
+37	G120N, A121G				Unknown	Unknown	Not Provided	Not Provided										
+39	Wild Type		USA		Unknown	Unknown	Not Provided	Not Provided										
+41	porB1a		USA		Unknown	Unknown	Not Provided	Not Provided										porB1a
+42	A121S		USA		Unknown	Unknown	Not Provided	Not Provided										
+43	WT		USA		Unknown	Unknown	Not Provided	Not Provided										
+44	porB1a	01-23-18	Australia		Unknown	Unknown	Not Provided	Not Provided										porB1a
+45	G120Q, A121N		USA		Unknown	Unknown	Not Provided	Not Provided										
+46	G120R, A121G	10-17-18	China		Unknown	Unknown	Not Provided	Not Provided										
+47	Wild Type	02-11-19	South Africa		Unknown	Unknown	Not Provided	Not Provided										
+100	Wild Type	01-15-01	Canada	14	Female	Negative	Not Provided	Agar Dilution										

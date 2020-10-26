@@ -1,0 +1,14 @@
+Allele Type	AMR Markers	Collection Date	Originating Country	Patient Age	Patient Gender	Beta-Lactamase	Isolate Classification(s)	MICs Determined By	Azithromycin	Cefixime	Ceftriaxone	Ciprofloxacin	Erythromycin	Penicillin	Spectinomycin	Tetracycline	Additional Epidemiological Data	Curator Comments
+1	L421P	01-01-01	Australia		Unknown	Positive	PPNG	Agar Dilution		< 0.016								WHO-N
+2	Wild Type	01-01-11	Canada	23	Male	Negative	TetR	Agar Dilution									Penis/Urethra	
+3	L421P	01-05-06	Canada	32	Male	Negative	CMRNG/CipR	Agar Dilution										
+4	L421P	01-01-06	Canada	18	Male	Negative	TetR/CipR	Agar Dilution										
+5	L421P	01-31-12	Canada		Male	Negative	CeDS/CipR/CMRNG/CxDS	Agar Dilution									Penis/Urethra	
+6	L42P		USA		Unknown	Unknown	Not Provided	Not Provided										
+7	Wild Type		USA		Unknown	Unknown	Not Provided	Not Provided										
+8	Wild Type		USA		Unknown	Unknown	Not Provided	Not Provided										
+9	L421P		USA		Unknown	Unknown	Not Provided	Not Provided										
+10	Wild Type		USA		Unknown	Unknown	Not Provided	Not Provided										
+11	L421P	11-28-18	Sweden		Unknown	Unknown	Not Provided	Not Provided										
+12	L421P	03-11-19	South Africa		Unknown	Unknown	Not Provided	Not Provided										
+100	Wild Type	01-01-91	Canada		Unknown	Negative	Not Provided	Agar Dilution		< 0.016	< 0.002							WHO-F
