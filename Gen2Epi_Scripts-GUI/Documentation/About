@@ -1,0 +1,16 @@
+About Gen2Epi Version 1.0
+
+Gen2Epi is a computational Whole Genome Sequencing analysis pipeline to assemble short reads into full genomes and link the assembled sequences to strain typing and AMR determinant information automatically. 
+The requirements for running Gen2Epi on a computer with a 3.6GHz CPU is as following:
+
+	1) VirtualBox 5.2.14 or higher (works well with latest release 5.6)
+	2) Hard disk storage = 29 GB
+	3) RAM = 2 GB
+	4) Processor = 2
+
+Gen2Epi is licensed under the Creative Commons Attribution-Non-commercial 2.0 Canada License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc/2.0/ca/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
+
+
+Citation: 
+Singh R, Dillon JR, Demczuk W, Kusalik A. Gen2Epi: an automated whole-genome sequencing pipeline for linking full genomes to antimicrobial susceptibility and molecular epidemiological data in Neisseria gonorrhoeae. BMC Genomics 2019; 20(1):165.
+Singh R, Yarmovich T, Kusalik A, Dillon JA. Gen2EpiGUI: User-Friendly Pipeline for Analyzing Whole-Genome Sequencing Data for Epidemiological Studies of Neisseria gonorrhoeae. Sexually Transmitted Diseases. 2020 Oct 1;47(10):e42-4.
